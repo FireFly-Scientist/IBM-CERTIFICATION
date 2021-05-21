@@ -1,2 +1,3 @@
-# IBM-CERTIFICATION
-This is where I put my projects pertaining to my IBM-Certification in Data Science.
+# IBM-CERTIFICATION PROJECT 1
+
+All projects with be in numerical order starting at 1
